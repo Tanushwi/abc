@@ -1,4 +1,4 @@
-//Q1. Sum of two numbers.
+//Q1. WAP in C of sum of two numbers.
 //#include<stdio.h>
 //int main()
 //{
